@@ -1,0 +1,6 @@
+{
+  "name": "Bharath Reddy Medical Sciences",
+  "description": "Full-stack hospital management application for Bharath Reddy Medical Sciences with real-time CRUD operations for Doctors, Patients, Appointments, Prescriptions, and Billing, alongside Java Spring Boot + MySQL backend codebase reference.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
